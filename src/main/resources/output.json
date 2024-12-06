@@ -1,0 +1,7 @@
+{
+  "area": 314.2,
+  "nested": {
+    "innerConst": 15
+  },
+  "circumference": 62.84
+}

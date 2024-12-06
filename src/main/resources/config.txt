@@ -1,0 +1,10 @@
+*> Это комментарий
+const pi = 3.1415
+const radius = 10
+([
+    area : @{radius radius * pi *},
+    circumference : @{radius 2 * pi *},
+    nested : ([
+        innerConst : @{radius 5 +}
+    ])
+])
